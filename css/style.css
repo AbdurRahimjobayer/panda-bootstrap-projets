@@ -1,0 +1,10 @@
+body {
+    font-family: 'Poppins',
+        sans-serif;
+}
+
+.fa-thin fa-cart-shopping {
+    background-color: blue;
+    height: 200px;
+    width: 60px;
+}
